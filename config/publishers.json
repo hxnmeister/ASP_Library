@@ -1,0 +1,22 @@
+{
+  "publishers": [
+    {
+      "Id": 1,
+      "Name": "Publisher Name 1",
+      "Country": "Country1",
+      "City": "City1"
+    },
+    {
+      "Id": 2,
+      "Name": "Publisher Name 2",
+      "Country": "Country2",
+      "City": "City2"
+    },
+    {
+      "Id": 3,
+      "Name": "Publisher Name 3",
+      "Country": "Country3",
+      "City": "City3"
+    }
+  ]
+}

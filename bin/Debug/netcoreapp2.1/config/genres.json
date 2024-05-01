@@ -1,0 +1,16 @@
+{
+  "genres": [
+    {
+      "Id": 1,
+      "Name": "Genre Name 1"
+    },
+    {
+      "Id": 2,
+      "Name": "Genre Name 2"
+    },
+    {
+      "Id": 3,
+      "Name": "Genre Name 3"
+    }
+  ]
+}

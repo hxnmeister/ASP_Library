@@ -1,0 +1,62 @@
+{
+  "books": [
+    {
+      "Id": 1,
+      "Title": "Example Book 1",
+      "Author": {
+        "Id": 3,
+        "FirstName": "FirstName3",
+        "LastName": "LastName3"
+      },
+      "Genre": {
+        "Id": 3,
+        "Name": "Genre Name 3"
+      },
+      "Publisher": {
+        "Id": 2,
+        "Name": "Publisher Name 2",
+        "Country": "Country2",
+        "City": "City2"
+      }
+    },
+    {
+      "Id": 2,
+      "Title": "Example Book 2",
+      "Author": {
+        "Id": 2,
+        "FirstName": "FirstName2",
+        "LastName": "LastName2"
+      },
+      "Genre": {
+        "Id": 1,
+        "Name": "Genre Name 1"
+      },
+      "Publisher": {
+        "Id": 2,
+        "Name": "Publisher Name 2",
+        "Country": "Country2",
+        "City": "City2"
+      }
+    },
+    {
+      "Id": 3,
+      "Title": "Example Book 2",
+      "Author": {
+        "Id": 1,
+        "FirstName": "FirstName1",
+        "LastName": "LastName1"
+      },
+      "Genre": {
+        "Id": 1,
+        "Name": "Genre Name 1"
+      },
+      "Publisher": {
+        "Id": 1,
+        "Name": "Publisher Name 1",
+        "Country": "Country1",
+        "City": "City1"
+      }
+    }
+  ]
+
+}

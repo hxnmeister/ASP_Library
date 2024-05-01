@@ -1,0 +1,4 @@
+{
+  "gridSettings": "style='display: grid; grid-template-columns: repeat(2, 200px); max-width: 400px; margin: auto'",
+  "cardSettings": "style='padding: 5px; margin: 10px; border: 2px solid black; border-radius: 20px; background-color: #73628A; color: #EAEAEA'"
+}

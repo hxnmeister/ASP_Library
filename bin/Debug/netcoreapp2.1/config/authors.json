@@ -1,0 +1,20 @@
+{
+  "authors": [
+    {
+      "Id": 1,
+      "FirstName": "FirstName1",
+      "LastName": "LastName1"
+    },
+    {
+      "Id": 2,
+      "FirstName": "FirstName2",
+      "LastName": "LastName2"
+    },
+    {
+      "Id": 3,
+      "FirstName": "FirstName3",
+      "LastName": "LastName3"
+    }
+  ]
+
+}
